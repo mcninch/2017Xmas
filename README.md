@@ -5,3 +5,6 @@ https://www.infineon.com/dgdl/bas4002aseries.pdf?folderId=db3a30431f848401011fcb
 
 DC-DC Converter:
 http://datasheets.maximintegrated.com/en/ds/MAX756-MAX757.pdf
+
+Reference:
+https://electronics.stackexchange.com/questions/81359/power-an-ornament-via-christmas-tree-light-bulb-socket
